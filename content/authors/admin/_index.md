@@ -18,18 +18,12 @@ organizations:
     url: ""
 education:
   courses:
-    - course: Science Communication
-      institution: IMAGINARY
-      year: ""
     - course: M.A. Cultural Poetics of Literature and Media
       institution: University of Münster (WWU)
-      year: ""
+      year: 2019
     - course: B.A. Musicology / German Studies
       institution: Eberhard-Karls-Universität Tübingen
-      year: ""
-    - course: B.A. Musicology / German Studies
-      institution: Albert-Ludwigs-Universität Freiburg
-      year: ""
+      year: 2016
 superuser: true
 highlight_name: false
 title: Christopher Lukman
