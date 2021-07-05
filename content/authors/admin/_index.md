@@ -1,5 +1,6 @@
 ---
 role: PhD Candidate, Media Studies
+avatar_filename: bildinmarseille.jpg
 bio: My research interests include notions of the "popular", history of
   aesthetic theory, game studies, and media theory.
 interests:
