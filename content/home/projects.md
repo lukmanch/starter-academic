@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: PhD Project
 weight: 65
-title: PhD Abstract
+title: ""
 subtitle: Cuteness and the Popular Aesthetics of Videogames
 content:
   page_type: project
@@ -16,7 +16,7 @@ content:
       tag: Demo
 headless: true
 design:
-  columns: "2"
+  columns: "1"
   view: 2
   flip_alt_rows: false
 ---
