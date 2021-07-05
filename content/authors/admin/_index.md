@@ -4,9 +4,9 @@ avatar_filename: bildinmarseille.jpg
 bio: My research interests include notions of the "popular", history of
   aesthetic theory, game studies, and media theory.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Aesthetic Theory
+  - Media Theory
+  - Game Studies
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,19 +24,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Freie Universität Berlin
+    url: PhD Candidate
+  - name: Studienstiftung des deutschen Volkes
+    url: PhD Scholarship
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 superuser: true
 highlight_name: false
 title: Christopher Lukman
