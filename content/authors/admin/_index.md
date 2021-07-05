@@ -11,29 +11,29 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
-  - name: Freie Universität Berlin
-    url: PhD Candidate
+  - name: Freie Universität Berlin, Institute for Film Studies
+    url: https://www.geisteswissenschaften.fu-berlin.de/we07/film/index.html
   - name: Studienstiftung des deutschen Volkes
-    url: PhD Scholarship
+    url: ""
 education:
-  courses: []
+  courses:
+    - course: Science Communication
+      institution: IMAGINARY
+      year: ""
+    - course: M.A. Cultural Poetics of Literature and Media
+      institution: University of Münster (WWU)
+      year: ""
+    - course: B.A. Musicology / German Studies
+      institution: Eberhard-Karls-Universität Tübingen
+      year: ""
+    - course: B.A. Musicology / German Studies
+      institution: Albert-Ludwigs-Universität Freiburg
+      year: ""
 superuser: true
 highlight_name: false
 title: Christopher Lukman
-email: ""
+email: lukmanch@hotmail.de
 ---
 I am Christopher Lukman, a media researcher based in Berlin, that also happens to be my hometown. I am working on “Cuteness and the Popular Aesthetics of Videogames”. My other research interests include the history of aesthetic theory and media of relaxation, most notably meditation.
 
